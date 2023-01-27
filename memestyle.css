@@ -60,3 +60,12 @@ body {
     background-color: #3c3c3c;
     color: white;
 }
+
+footer {
+    display: block;
+    background-color: rgb(101, 101, 101);
+    color: #ffffff;
+    font-size: 17px;
+    margin-bottom: 0%;
+    padding: 1px;
+  }
